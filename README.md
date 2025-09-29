@@ -1,6 +1,6 @@
 ![yo](https://media1.tenor.com/m/xlmPrelanVgAAAAC/regalt-interesting.gif)
 ## ✌️ Hi there, I’m building cool stuff here
-![Hadahamdaa](/Hadahamdaa/img/github-header-banner%20(1).png)
+![Hada hamdaa](/Hadahamdaa/img/github-header-banner%20(1).png)
 
 <!-- ## 🚀 About Me
 - 🎓 **Computer Science** student at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
