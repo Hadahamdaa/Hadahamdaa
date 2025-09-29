@@ -26,7 +26,7 @@
 ### what I’m listening to right now
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21oybodklta5urjc3lhghwuty)
 
-#### play with me!
+## play with me!
 ###
 
 <img src="https://raw.githubusercontent.com/Hadahamdaa/Hadahamdaa/output/snake.svg" alt="Snake animation" />
