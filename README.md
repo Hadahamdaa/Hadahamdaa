@@ -3,13 +3,21 @@
 ![Hada hamdaa](img/github-header-banner%20(1).png)
 
 <!-- ## 🚀 About Me
-- 🎓 **Computer Science** student at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
-- 💻 Passionate about Web Development and AI Engineering 
-- 📈 Currently learning **React** and **Laravel Framework**
-- 🎯 **Goal**: Build impactful projects and contribute to open source   -->
+- 🎓 **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
+- 💻 Passionate about **IT Ad## 🚀 About Me
+- 🎓 **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
+- 💻 Passionate about **IT Advisory**, **Cyber Security**, and **AI Engineering**
+- 📈 Currently focusing on **Secure System Architecture** and **Data Governance**
+- 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformationvisory**, **Cyber Security**, and **AI Engineering**
+- 📈 Currently focusing on **Secure System Architecture** and **Data Governance**
+- 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformation  -->
 
-# 💫 About Me:
-#### <br>- 🎓 **Computer Science** student at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)<br>- 💻 Passionate about Web Development and AI Engineering <br>- 📈 Currently learning **React** and **Laravel Framework**<br>- 🎯 **Goal**: Build impactful projects and contribute to open source  
+# 💫 About Me:## 🚀 About Me
+- 🎓 **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
+- 💻 Passionate about **IT Advisory**, **Cyber Security**, and **AI Engineering** and include **Web Development**
+- 📈 Currently focusing on **Secure System Architecture** and **Data Governance**
+- 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformation
+
 
 
 ## 🌐 Socials:
