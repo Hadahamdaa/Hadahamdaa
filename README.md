@@ -11,12 +11,21 @@
 - 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformationvisory**, **Cyber Security**, and **AI Engineering**
 - 📈 Currently focusing on **Secure System Architecture** and **Data Governance**
 - 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformation  -->
-
-# 💫 About Me:## 🚀 About Me
+## 🚀 About Me
 - 🎓 **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
-- 💻 Passionate about **IT Advisory**, **Cyber Security**, and **AI Engineering** and include **Web Development**
-- 📈 Currently focusing on **Secure System Architecture** and **Data Governance**
-- 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformation
+- 💻 A versatile **Software Engineer** passionate about **IT Advisory**, **Cyber Security**, and **AI Engineering** also **Web Development**
+- 📈 Currently focusing on **Secure System Architecture**, **Data Governance**
+- 🎯 **Goal**: Bridging **technical complexity** with **business solutions** to deliver secure and scalable digital transformation
+
+### 💼 Career Focus & Internship Opportunities
+
+I am actively exploring internship roles that bridge technical execution with business value:
+
+| Domain | Target Roles |
+| :--- | :--- |
+| **💻 Development** | Fullstack Developer, Junior Software Engineer, Front-End Developer |
+| **🎨 Creative** | UI/UX Designer, Web Developer |
+| **🛡️ Specialist** | **Cyber Security Analyst**, **IT Advisory**, AI Engineer, Data Analyst |
 
 
 
