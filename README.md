@@ -13,8 +13,8 @@
 - 🎯 **Goal**: Bridging technical complexity with **Business Solutions** to drive digital transformation  -->
 ## 🚀 About Me
 - 🎓 **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
-- 💻 A versatile **Software Engineer** passionate about **IT Advisory**, **Cyber Security**, and **AI Engineering** also **Web Development**
-- 📈 Currently focusing on **Secure System Architecture**, **Data Governance**
+- 💻 A versatile **Software Engineer** passionate about **Cyber Security**, and **Web Development** also **AI Engineering**
+- 📈 Currently focusing on **Secure System Architecture**
 - 🎯 **Goal**: Bridging **technical complexity** with **business solutions** to deliver secure and scalable digital transformation
 
 ### 💼 Career Focus & Internship Opportunities
