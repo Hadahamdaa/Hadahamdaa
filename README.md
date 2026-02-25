@@ -25,7 +25,7 @@ I am actively exploring internship roles that bridge technical execution with bu
 | :--- | :--- |
 | **💻 Development** | Fullstack Developer, Junior Software Engineer, Front-End Developer |
 | **🎨 Creative** | UI/UX Designer, Web Developer |
-| **🛡️ Specialist** | **Cyber Security Analyst**, **IT Advisory**, AI Engineer, Data Analyst |
+| **🛡️ Specialist** | Cyber Security Analyst, AI Engineer, Data Analyst |
 
 
 
